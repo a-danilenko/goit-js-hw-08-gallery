@@ -1,0 +1,16 @@
+{
+    "cSpell.enableFiletypes": [
+        "!cpp",
+        "!csharp",
+        "!go",
+        "!php",
+        "!plaintext",
+        "!pug",
+        "!python",
+        "!rust",
+        "!scala",
+        "!yaml",
+        "!yml",
+        "log"
+    ]
+}

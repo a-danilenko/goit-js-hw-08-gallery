@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+
+  margin-left: 40px;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+}
+
+img {
+  width: 300px;
+  margin-top: 15px;
+}
+
+.main-list {
+  display: block;
+
+  margin-top: 30px;
+}
+
+.main-btn {
+  font-size: 20px;
+  background-color: greenyellow;
+  border-radius: 10px;
+  border-color: seagreen;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10%;
+  padding: 5px;
+}
+
+.main-btn__link {
+  color: purple;
+}
+
+#validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
+}
